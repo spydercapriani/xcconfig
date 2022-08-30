@@ -1,0 +1,2 @@
+# xcconfig
+Xcconfig Generator Tool
